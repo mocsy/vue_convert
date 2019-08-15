@@ -1,0 +1,11 @@
+[package]
+name = "vue_convert"
+version = "0.1.0"
+authors = ["Andras Mocsary <nobody@reedwolf.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+select = "0.4.3"
+heck = "0.3.1"
