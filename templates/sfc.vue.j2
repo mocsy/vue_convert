@@ -1,0 +1,16 @@
+// https://github.com/mocsy/vue_convert from {{ file_name }}
+<template>
+{{ body }}
+</template>
+
+<script lang="ts">
+import Vue from 'vue';
+
+export default Vue.extend( {% raw %} {{ {% endraw %}
+  name: '{{ comp_name }}'
+  {% raw %} }} {% endraw %});
+</script>
+
+<style lang="scss">
+{{ css_links }}
+</style>

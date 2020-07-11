@@ -1,11 +1,21 @@
 [package]
 name = "vue_convert"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Andras Mocsary <nobody@reedwolf.com>"]
 edition = "2018"
+repository = "https://github.com/mocsy/vue_convert"
+documentation = "https://docs.rs/vue_convert"
+license = "MIT OR Apache-2.0"
+description = "A cli tool and rust lib to convert a set of html files to a Vue Single File Component base Vue Spa automatically."
+keywords = ["vue", "spa", "typescript"]
+publish = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 select = "0.4.3"
 heck = "0.3.1"
+askama = "0.10.1"
+
+[badges]
+maintenance = { status = "experimental" }
