@@ -8,7 +8,7 @@
 [Rust 1.40]: https://blog.rust-lang.org/2019/12/19/Rust-1.40.0.html
 [Documentation]: https://docs.rs/vue_convert/badge.svg
 [docs.rs]: https://docs.rs/vue_convert
-[License: MIT OR Apache-2.0]: https://img.shields.io/crates/l/clippy.svg
+[License]: https://img.shields.io/crates/l/vue_convert
 [license]: #license
 [maintenance]: https://img.shields.io/badge/maintenance-casual-blue
 [free]: http://unhandledexpression.com/general/2018/11/27/foss-is-free-as-in-toilet.html
