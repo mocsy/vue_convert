@@ -1,10 +1,12 @@
-# Vue-convert &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![vue_convert: rustc 1.40+]][Rust 1.40]
+# Vue-convert &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![Documentation]][docs.rs] [![vue_convert: rustc 1.40+]][Rust 1.40] 
 [Build Status]: https://img.shields.io/github/workflow/status/mocsy/vue_convert/Rust/master
 [actions]: https://github.com/mocsy/vue_convert/actions?query=branch%3Amaster
 [Latest Version]: https://img.shields.io/crates/v/vue_convert.svg
 [crates.io]: https://crates.io/crates/vue_convert
 [vue_convert: rustc 1.40+]: https://img.shields.io/badge/vue_convert-rustc_1.40+-lightgray.svg
 [Rust 1.40]: https://blog.rust-lang.org/2019/12/19/Rust-1.40.0.html
+[Documentation]: https://docs.rs/vue_convert/badge.svg
+[docs.rs]: https://docs.rs/vue_convert
 
 Designed for typescript only, support for es-whatevs syntax is a non-goal.
 
