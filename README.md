@@ -3,7 +3,7 @@
 [actions]: https://github.com/mocsy/vue_convert/actions?query=branch%3Amaster
 [Latest Version]: https://img.shields.io/crates/v/vue_convert.svg
 [crates.io]: https://crates.io/crates/vue_convert
-[serde: rustc 1.40+]: https://img.shields.io/badge/vue_convert-rustc_1.40+-lightgray.svg
+[vue_convert: rustc 1.40+]: https://img.shields.io/badge/vue_convert-rustc_1.40+-lightgray.svg
 [Rust 1.40]: https://blog.rust-lang.org/2019/12/19/Rust-1.40.0.html
 
 Designed for typescript only, support for es-whatevs syntax is a non-goal.
