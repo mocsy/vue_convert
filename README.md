@@ -1,4 +1,4 @@
-# Vue-convert &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![Documentation]][docs.rs] [![vue_convert: rustc 1.40+]][Rust 1.40] [![License]][license] [![maintenance]][free] [![unsafe forbidden](https://img.shields.io/badge/unsafe-forbidden-success.svg)](https://github.com/rust-secure-code/safety-dance/)
+# Vue-convert &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![Documentation]][docs.rs] [![vue_convert: rustc 1.40+]][Rust 1.40] [![License]][license] [![maintenance]][free] [![pedantic]][lints] [![unsafe forbidden](https://img.shields.io/badge/unsafe-forbidden-success.svg)](https://github.com/rust-secure-code/safety-dance/)
 
 [Build Status]: https://img.shields.io/github/workflow/status/mocsy/vue_convert/Rust/master
 [actions]: https://github.com/mocsy/vue_convert/actions?query=branch%3Amaster
@@ -12,6 +12,8 @@
 [license]: #license
 [maintenance]: https://img.shields.io/badge/maintenance-casual-blue
 [free]: http://unhandledexpression.com/general/2018/11/27/foss-is-free-as-in-toilet.html
+[pedantic]: https://img.shields.io/badge/clippy-pedantic-yellowgreen
+[lints]: https://doc.rust-lang.org/reference/attributes/diagnostics.html#tool-lint-attributes
 
 Designed for typescript only, support for es-whatevs syntax is a non-goal.
 
